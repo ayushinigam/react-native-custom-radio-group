@@ -45,12 +45,12 @@ export default class MyComponent extends Component {
 //radioGroupList.js
 export const radioGroupList = [{
   label: 'Car',
-  value: '1'
+  value: 'transport_car'
 }, {
   label: 'Bike',
-  value: '2'
+  value: 'transport_bike'
 }, {
   label: 'Bus',
-  value: '3'
+  value: 'transport_bus'
 }];
 ```
