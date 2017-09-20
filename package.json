@@ -1,0 +1,29 @@
+{
+  "name": "react-native-custom-radio-group",
+  "version": "1.0.0",
+  "description": "React native radio group with custom component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushinigam/react-native-custom-radio-group.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "radio",
+    "custom",
+    "radio",
+    "button",
+    "radio",
+    "group"
+  ],
+  "author": "Ayushi Nigam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushinigam/react-native-custom-radio-group/issues"
+  },
+  "homepage": "https://github.com/ayushinigam/react-native-custom-radio-group#readme"
+}
