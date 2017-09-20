@@ -4,7 +4,7 @@ A react native radio group component with custom radio button. The component ena
 
 <strong>Example</strong>:<br>
 Example uses default styles by RadioGroup<br>
-![Example gif](https://github.com/ayushinigam/react-native-custom-radio-group/blob/master/example/asset/example.gif?raw=true)
+![Demo gif](https://github.com/ayushinigam/react-native-custom-radio-group/blob/master/demo/asset/demo.gif?raw=true)
 
 <strong>Installation</strong>:
 ```javascript
