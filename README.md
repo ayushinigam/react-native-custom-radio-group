@@ -3,7 +3,8 @@
 A react native radio group component with custom radio button. The component enables single select radio button behaviour with default select option and customization of the button styles.
 
 <strong>Example</strong>:<br>
-Example uses default styles by RadioGroup
+Example uses default styles by RadioGroup<br>
+![Example gif](https://github.com/ayushinigam/react-native-custom-radio-group/blob/master/example/asset/example.gif?raw=true)
 
 <strong>Installation</strong>:
 ```javascript
