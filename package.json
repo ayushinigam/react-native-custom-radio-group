@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-radio-group",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "React native radio group with custom component",
   "main": "index.js",
   "scripts": {
