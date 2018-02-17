@@ -27,7 +27,7 @@ npm install react-native-custom-radio-group --save
 import React, {Component} from 'react';
 import {View, Text} from 'react-native';
 import RadioGroup from 'react-native-custom-radio-group';
-import radioGroupList from './radioGroupList.js'
+import {radioGroupList} from './radioGroupList.js'
 
 export default class MyComponent extends Component {
   render () {
