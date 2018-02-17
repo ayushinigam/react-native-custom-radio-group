@@ -34,7 +34,7 @@ export default class MyComponent extends Component {
     return (
       <View>
         <Text> SELECT: </Text>
-        <RadioGroup radioGroupList={radioGroupData}/>
+        <RadioGroup radioGroupList={radioGroupList}/>
       </View>);
   }
 }
